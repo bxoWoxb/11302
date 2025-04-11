@@ -14,7 +14,7 @@
 |3 | 職稱 | 引擎部維修技師 |
 |4 | 任職公司 | 合同興 |
 
-</details>
+<details>
 </summary>
 聽ㄚ
 </summary>
